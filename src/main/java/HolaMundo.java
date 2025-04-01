@@ -4,6 +4,6 @@ public class HolaMundo {
 
         System.out.println("Hola");
 
-        System.out.println("Adios en v2gi");
+        System.out.println("Adios en v2");
     }
 }
